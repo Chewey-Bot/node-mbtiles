@@ -31,7 +31,7 @@
     "@mapbox/sphericalmercator": "~1.1.0",
     "@mapbox/tiletype": "0.3.x",
     "d3-queue": "~3.0.7",
-    "sqlite3": "4.x"
+    "sqlite3": "github:Chewey-Bot/node-sqlite3#d86c93f72fec191656b6bd4c1ac89164d03d2e62"
   },
   "devDependencies": {
     "eslint": "~5.16.0",
